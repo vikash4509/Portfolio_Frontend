@@ -23,10 +23,12 @@ The Portfolio Frontend is a React-based web application that provides an elegant
 
 ## Links
 **GitHub Repository:** - https://github.com/vikash4509/Portfolio_Frontend.git
+
 **Live Demo:**
 ---
 
 **##Technologies Used**
+
 HTML5 & CSS3
 
 JavaScript (ES6+)
