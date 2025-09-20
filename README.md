@@ -22,9 +22,8 @@ The Portfolio Frontend is a React-based web application that provides an elegant
 ---
 
 ## Links
--** GitHub Repository:** https://github.com/kpragati03/portfolio_frontend.git
-
-**Live Demo:** **https://portfolio-frontend-one-opal.vercel.app**
+**GitHub Repository:** - https://github.com/vikash4509/Portfolio_Frontend.git
+**Live Demo:**
 ---
 
 **##Technologies Used**
@@ -42,7 +41,7 @@ Clone the repository
 
 Bash
 
-git clone https://github.com/kpragati03/portfolio_frontend.git
+git clone https://github.com/vikash4509/Portfolio_Frontend.git
 Navigate into the project folder
 
 Bash
@@ -103,9 +102,9 @@ The screenshot shows a "Contact" page with a form to send a message.
 
 A visitor fills out the contact form on your portfolio website:
 
- 1. Name: Pragati Kumari
+ 1. Name: Vikash Gupta
 
- 2. Email: pragati123@gmail.com
+ 2. Email: vikas1182004@gmail.com
 
  3. Message: "Hi, I really liked your projects. Can we connect for a collaboration?"
 
@@ -142,59 +141,8 @@ A visitor fills out the contact form on your portfolio website:
 | Sample Input/Output     |  Demonstrated contact form submission, success alert on frontend, and MongoDB entry on backend.               |
 
 ---
-
-**#Team Contributions**
-
-This project was a collaborative effort where each team member took ownership of key areas of the development lifecycle, from conception to deployment. The main responsibilities were distributed as follows:
-
-
-
-
-****##Pragati Kumari (Project Lead & Lead Full-Stack Developer)****
-
-As the project lead, Pragati spearheaded the technical direction and was responsible for the entire frontend development and the successful deployment of the full-stack application.
-
-*Project Leadership & Architecture:* Led the project initiation, defined the technical architecture, and selected the MERN stack technologies.
-
-*Lead Frontend Development:* Single-handedly designed and developed the entire frontend application using React. This included creating all components, implementing the UI/UX, styling, and adding light/dark mode theme functionalities.
-
-*Full-Stack Deployment & DevOps:* Managed the complete end-to-end deployment pipeline, deploying the frontend to Vercel and the backend to Render.
-
-*Critical Bug Resolution:* Systematically troubleshooted and resolved complex integration issues, including Cross-Origin Resource Sharing (CORS) policies, case-sensitivity bugs, and server-side deployment errors.
-
-*Version Control & Documentation:* Established the final GitHub repositories and authored the comprehensive technical documentation, including setup guides, deployment links, and documenting project challenges.
-
-
-
-
-
-****##Saroj Padhi (Lead Backend Developer)****
-
-Saroj was responsible for building the entire server-side of the application, ensuring a robust and scalable backend to support the frontend's features.
-
-*Backend Architecture:*  Architected and implemented the entire server-side application using Node.js and Express.js.
-
-*Database Management:* Designed the MongoDB schema for the contact form and managed the complete database integration and connectivity.
-
-*API Development:* Developed, tested, and secured all the API endpoints required for the frontend to interact with the database.
-
-
-
-
-
-****##Dommaraju Jyothshna Sree (Project Contributor)****
-Jyothshna played a key role in the initial phase of the project, helping to set up the foundational elements.
-
-*Initial Setup & Scaffolding:* Contributed to the project's kickoff by creating the initial GitHub repository.
-
-*Documentation:* Authored the first draft of the project's README file, which laid the groundwork for the final documentation.
-
-
-
 ## Author
 
-*Name:*   PRAGATI KUMARI,
-          SAROJ PADHI,
-          DOMMARAJU JYOTHSHNA SREE.
+*Name:*  Vikash Kumar Gupta
 
 *Date:* 20 september 2025
