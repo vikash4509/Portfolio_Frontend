@@ -1,4 +1,4 @@
-# portfolio frontend
+<img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/cd631abe-414d-47f8-b1f6-506be75be515" /># portfolio frontend
 
 ## Project Objective
 The objective of the Portfolio Frontend is to design and develop an interactive, user-friendly, and responsive web interface that showcases personal information, skills, achievements, and projects.
@@ -77,15 +77,15 @@ npm run dev
 
 ## Screenshots
 
-![img1](https://github.com/user-attachments/assets/901a90a6-40f2-4d9b-a13e-ed88649bdc5e)
+![Image](https://github.com/user-attachments/assets/80a80c5e-750c-4bd3-bdbb-1cabb7e9187c)
 The screenshot shows the homepage of a personal portfolio website for a "MERN Stack Developer" and self-introduction.
-![img2](https://github.com/user-attachments/assets/c1368204-6c0e-4aad-a731-ec1503f6b632)
+<img width="1909" height="1079" alt="Image" src="https://github.com/user-attachments/assets/503e746b-1f7a-46f5-a371-726781906116" />
 The screenshot shows the "About Me" page of a personal portfolio website.
-![img3](https://github.com/user-attachments/assets/09e4a229-bb44-4028-b984-40b9beae3a07)
+<img width="1419" height="1056" alt="Image" src="https://github.com/user-attachments/assets/9d343a66-2b72-4af4-afed-779e6acc4090" />
 This screenshot demonstrates the Frontend Projects Page of your portfolio website, where different projects are showcased with their status.
-![img4](https://github.com/user-attachments/assets/2cdb63f9-86fa-40a4-902a-383174a40358)
+<img width="1910" height="903" alt="Image" src="https://github.com/user-attachments/assets/d9ccd4e2-4d9a-4228-930d-7d8be0c75d39" />
 The screenshot shows the "Resume & Experience" page of a personal portfolio website being viewed in a web browser.
-![img5](https://github.com/user-attachments/assets/be8b4f33-9a6d-4ecb-bc2b-41468ccd833f)
+<img width="1906" height="908" alt="Image" src="https://github.com/user-attachments/assets/d8455aaf-826d-46e5-8e3c-55455e178854" />
 The screenshot shows a "Contact" page with a form to send a message.
 ---
 
