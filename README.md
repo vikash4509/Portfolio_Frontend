@@ -1,5 +1,3 @@
-<img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/cd631abe-414d-47f8-b1f6-506be75be515" /># portfolio frontend
-
 ## Project Objective
 The objective of the Portfolio Frontend is to design and develop an interactive, user-friendly, and responsive web interface that showcases personal information, skills, achievements, and projects.
 
